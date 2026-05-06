@@ -5,10 +5,7 @@ facilitando a manipulação de dados em planilhas do Excel. Ele lê os dados do 
 as informações estão separadas por ponto e vírgula (`;`), e cria uma planilha Excel organizada com essas informações.
 
 # Outro método é realizar diretamente no Excel com o Power Query 
-![Método com Power Query](<Card 01 — Power Query@2x.png>)![Python](<tela python.png>)
-
-
-![Método Script Python](<Card 02 — Python@2x.png>)![Excel](<tela excel.png>)
+![Método com Power Query](<Card 01 — Power Query@2x.png>)![Excel](<tela excel.png>)
 
 
 ## Funcionalidades
@@ -35,6 +32,8 @@ as informações estão separadas por ponto e vírgula (`;`), e cria uma planilh
 ```bash
 python converterTxtPorXls.py
 ```
+![Método Script Python](<Card 02 — Python@2x.png>)![Python](<tela python.png>)
+
 
 O arquivo convertido será salvo na mesma pasta do script.
 
